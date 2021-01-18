@@ -113,3 +113,5 @@
 // var percentage = 30 / 45 * 100;
 // var decimal = percentage.toFixed(2);
 // document.write(decimal);
+
+// Completed
